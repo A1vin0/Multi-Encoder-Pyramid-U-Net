@@ -1,1 +1,1 @@
-# Multi-Encoder-Pyramid-U-Net-
+# Multi-Encoder-Pyramid-U-Net
